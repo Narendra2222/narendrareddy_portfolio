@@ -75,8 +75,8 @@ align-items: center;
 
 
 .sec1-img img{
-    width: 350px;
-    height: 350px;
+    width: 380px;
+    height: 380px;
     border-radius: 50%;
 }
 .content{
@@ -341,5 +341,6 @@ opacity: 1;
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
 
 }
